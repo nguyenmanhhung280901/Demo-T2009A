@@ -26,6 +26,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Manh Hung\sem1\Hello-git\imgs" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Manh Hung\sem1\Hello-git" />
     </key>
@@ -38,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602662717873</updated>
-      <workItem from="1602662718919" duration="5622000" />
+      <workItem from="1602662718919" duration="6673000" />
     </task>
     <servers />
   </component>
